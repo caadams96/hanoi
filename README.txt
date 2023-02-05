@@ -1,4 +1,4 @@
-/*****************************************************************************************/
+/******************************************************************/
 /*Description of Program*/
 Recursive algorithm to solve the Towers of Hanoi
 to use the software one has to decide on how many
